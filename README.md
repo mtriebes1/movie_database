@@ -12,6 +12,7 @@ The Movie Database project was the final project for my Database Management clas
 Running: 
   - SQL Code: mysql DBMS_Project.sql then mysql data_inserts.sql (Must be in this Order)
   - Python Code: python movie_finder.py
+
 Installations: 
   - Maria DB (any new version works)
   - All the code provided in the repository
